@@ -1,5 +1,12 @@
 # YouTube Clone (Frontend Only)
 
+## Preview
+
+
+https://github.com/user-attachments/assets/6c285751-2c14-4334-bd89-602dec8cd094
+
+
+
 ## Description
 
 This project is a frontend-only clone of the popular video-sharing platform YouTube. The design replicates the layout and interface of YouTube, focusing on the visual aspects without any JavaScript functionality. The project demonstrates my ability to create complex, responsive layouts using modern CSS techniques.
